@@ -10,5 +10,5 @@ Im a student in **Software Engineering @ McGill**
 Java, Python, JS/TS, Bash, React, SQL, Docker
 
 ## ✉️ Contact
-www.linkedin.com/in/cai-lucia
-cai.lucia04@gmail.com
+- www.linkedin.com/in/cai-lucia
+- cai.lucia04@gmail.com
