@@ -4,7 +4,7 @@ Im a student in **Software Engineering @ McGill**
 
 - 🔭 **Currently:** building automation services (Java/Spring) and Dockerizing apps at my internship.
 - ☁️ **Interests:** backend/API design, testing, AI.
-- 🎯 **Looking for:** Winter/Summer internships in backend or platform/CI/CD.
+- 🎯 **Looking for:** Winter/Summer '26 SWE internships
 
 ## ⚙️ Tech
 Java, Python, JS/TS, Bash, React, SQL, Docker
