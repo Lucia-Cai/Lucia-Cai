@@ -6,8 +6,9 @@
 - ☁️ **Interests:** backend/API design, testing, AI.
 - 🎯 **Looking for:** Winter/Summer internships in backend or platform/CI/CD.
 
-# ⚙️ Tech
+**⚙️ Tech**
 Java, Python, JS/TS, Bash, React, SQL, Docker
 
-# ✉️ Contact
-📧 **www.linkedin.com/in/cai-lucia**
+**✉️ Contact**
+www.linkedin.com/in/cai-lucia
+cai.lucia04@gmail.com
